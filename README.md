@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Joshua Tanner, I went to medical school and now I work at the intersection of AI and Medicine. I love advising companies on implementing AI in their workflow, and collecting the best data to feed their AI a nutritious diet 💪 I also enjoy teaching Deep Learning in Medicine to medical students at Stanford. You can check out my LinkedIn at https://www.linkedin.com/in/joshuavtanner/
+
 <!--
 **jvtanner/jvtanner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
